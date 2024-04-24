@@ -25,11 +25,6 @@ bool compare(Query a, Query b)
     return a.R < b.R;
 }
 
-void solve(vector<Query> &queries, int n)
-{
-    
-}
-
 signed main(){
     fast_io;
     int n, m; cin>>n>>m;
